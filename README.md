@@ -41,6 +41,8 @@ A tribute artwork depicting Chhatrapati Shivaji Maharaj using turtle graphics:
 - Sunset background with golden sun
 - Name inscription with gradient effects
 - Historical significance representation
+  <img width="1356" height="706" alt="image" src="https://github.com/user-attachments/assets/251b5684-3312-413e-a158-5e83886dd345" />
+
 
 ## 🚀 Getting Started
 
