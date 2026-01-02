@@ -12,6 +12,8 @@ A beautiful turtle graphics illustration celebrating Ganesh Chaturthi festival. 
 - Decorative elements and crown
 - Festival greeting text
 - Colorful border design
+  <img width="1163" height="689" alt="image" src="https://github.com/user-attachments/assets/7c67160b-db1a-48ed-a2f6-e0cbe146d900" />
+
 
 ### 2. **Radha Krishna Artwork** (`radha.py`)
 An artistic representation of Radha and Krishna created using turtle graphics, featuring:
