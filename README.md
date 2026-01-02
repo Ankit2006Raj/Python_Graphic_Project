@@ -21,6 +21,8 @@ An artistic representation of Radha and Krishna created using turtle graphics, f
 - Traditional hair styling and ornaments
 - Peacock feather decorations
 - Vibrant color schemes
+<img width="752" height="444" alt="image" src="https://github.com/user-attachments/assets/62159bef-64d9-4130-991c-685918cbc065" />
+
 
 ### 3. **Restaurant Billing System** (`resturant.py`)
 A comprehensive GUI-based billing application built with Tkinter for restaurant management:
