@@ -124,7 +124,7 @@ This project is open source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Ankit Raj**  
-AIML Student | Web Developer
+AIML Student | Web Developer & AIML Aspiring 
 
 - 🐙 GitHub: [@Ankit2006Raj](https://github.com/Ankit2006Raj)
 - 💼 LinkedIn: [Ankit Raj](https://www.linkedin.com/in/ankit-raj-226a36309)
@@ -140,7 +140,7 @@ AIML Student | Web Developer
 
 <div align="center">
   
-**Made with ❤️ by Ankit Raj**
+**Made with ❤️ by Mr. Ankit Raj**
 
 ⭐ Star this repository if you found it helpful!
 
